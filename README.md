@@ -39,6 +39,8 @@ USGS_Wildland_Fire_Combined_Dataset.json: This contains the Combined wildland fi
 
 US City assigned for individual analysis -  [Google spreadsheet](https://docs.google.com/spreadsheets/d/1cmTW5fgU3KyH6JbrRao-qWjzu2GovKk_BkA7a-poGFw/edit)
 
+The city under consideration for my analysis is Derby, Kansas with coordinates (37.552407, -97.261492)
+
 # Licenses and Reference Code
 
 This project is licensed under the MIT License. The sample codes shared for reference have been provided under the [Creative Commons CC-BY license](https://creativecommons.org/licenses/by/4.0/):
