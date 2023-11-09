@@ -4,6 +4,13 @@
 
 The goal of this submission of the project was to analyze the impact of wildfire on a specific city in the US. The end goal is to be able to inform policy makers, city managers, city councils, or other civic institutions, to make an informed plan for how they could or whether they should make plans to mitigate future impacts from wildfires.
 
+# Key Takeaways 
+
+1.) Derby being one of the largest suburbs in Wichita is known for its green patches which is reflected by the less number of fire cases being reported in the proximity of Derby.  However, the cases increase significantly as we move away which might be indicative of commercialization and industrialization.
+
+2.) There has been a significant rise in the acres of land being burned all over the world over the last few years, due to a number of factors such as climate change, industrialization, commercialization etc. The data which was filtered for Derby also reflected a surge in acres of land burned in recent years. The area of land being burned had been on a constant rise and it peaked in 2011 in Derby. However, there is a noticeable shift post-2011 where it can be seen that the acres of land being burned has started to decrease though not consistently. This would be indicative of the effective measures that would have been enforced to mitigate wildfires once this reached a breaking point.
+
+
 # Folder Hierarchy
 
 ├── <b>Data/</b><br>
