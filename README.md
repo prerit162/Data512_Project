@@ -74,6 +74,8 @@ The following steps need to followed to run this code seamlessly :
 
 &emsp; The distance threshold from the city assigned has been kept at 1250 miles for the time period between 1963 - 2023<br>
 
+&emsp; The data fetched for my city(Derby, Kansas) had data for the time period for the time period between 1963 - 2020<br>
+
 &emsp; The data is not well distributed and hence fires over the entire year have been considered instead of the fires between 1st May to 31st October.<br>
 
 &emsp; A modified version of ARIMA called SARIMA has been used in forecasting the Smoke Estimate for the next 25 years (2024-2049)<br>
