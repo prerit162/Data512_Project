@@ -84,9 +84,11 @@ The "all_fire_data_with_distance.csv" file is not present under the intermediate
 # Output
 
 Visualization 1 : Produce a histogram showing the number of fires occurring every 50 mile distance from your assigned city up to the max specified distance.
+
 ![image](./Output/Visualization1.png)
 
 Visualization 2 : Produce a time series graph of total acres burned per year for the fires occurring in the specified distance from your city.
+
 ![image](./Output/Visualization2.png)
 
 Visualization 3 : Produce a time series graph containing your fire smoke estimate for your city and the AQI estimate for your city.
