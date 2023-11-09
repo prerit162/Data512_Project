@@ -91,7 +91,7 @@ Visualization 2 : Produce a time series graph of total acres burned per year for
 
 Visualization 3 : Produce a time series graph containing your fire smoke estimate for your city and the AQI estimate for your city.
 
-![image](./Output/Visualization2.png)
+![image](./Output/Visualization3.png)
 
 Validation Forecast : 
 
