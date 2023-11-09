@@ -64,22 +64,22 @@ The following steps need to followed to run this code seamlessly :
 # Output
 
 Visualization 1 : Produce a histogram showing the number of fires occurring every 50 mile distance from your assigned city up to the max specified distance.
-![image](./Output/Analysis_1.png)
+![image](./Output/Visualization1.png)
 
 Visualization 2 : Produce a time series graph of total acres burned per year for the fires occurring in the specified distance from your city.
-![image](./Output/Analysis_2.png)
+![image](./Output/Visualization2.png)
 
 Visualization 3 : Produce a time series graph containing your fire smoke estimate for your city and the AQI estimate for your city.
 
-![image](./Output/Analysis_3.png)
+![image](./Output/Visualization2.png)
 
 Validation Forecast : 
 
-![image](./Output/Analysis_4.png)
+![image](./Output/Validation_Forecast.png)
 
 Test Forecast : Census divisions by total coverage: A rank ordered list of US census divisions (in descending order) by total articles per capita
 
-![image](./Output/Analysis_5.png)
+![image](./Output/Test_Forecast.png)
 
 # License
 
