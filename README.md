@@ -55,8 +55,11 @@ This project is licensed under the MIT License. The sample codes shared for refe
 The following steps need to followed to run this code seamlessly :
 
 &emsp; Clone this repository to your local machine.<br>
+
 &emsp; Install all the required libraries.<br>
+
 &emsp; Download the jsons - USGS_Wildland_Fire_Combined_Dataset.json and USGS_Wildland_Fire_Merged_Dataset.json from  the following [link](https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81) by downloading the GeoJSON Files.zip folder and store these two jsons into the Data Folder<br>
+
 &emsp; Run Data_Extraction_Analysis.ipynb to generate all Visualizations and output csv file stored in Data Folder<br>
 
 
