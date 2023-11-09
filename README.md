@@ -23,6 +23,7 @@ The goal of this project is to analyze wildfire impacts on a specific city in th
 &nbsp;&nbsp;&nbsp;├── Visualization_3.png<br>
 &nbsp;&nbsp;&nbsp;├── Validation_Forecast.png<br>
 &nbsp;&nbsp;&nbsp;├── Test_Forecast.png<br>
+&nbsp;&nbsp;&nbsp;├── Test_Forecast_with_CI.png<br>
 
 # Prerequisites
 Before using this code, ensure you have the following prerequisites installed:
@@ -97,13 +98,17 @@ Visualization 3 : Produce a time series graph containing your fire smoke estimat
 
 ![image](./Output/Visualization3.png)
 
-Validation Forecast : 
+Validation Forecast : Created a Validation Set to select the best and optimized parameters for the SARIMA Model
 
 ![image](./Output/Validation_Forecast.png)
 
-Test Forecast : Census divisions by total coverage: A rank ordered list of US census divisions (in descending order) by total articles per capita
+Test Forecast : Used the Trained Model to make predictions for the 2024 - 2049 period
 
 ![image](./Output/Test_Forecast.png)
+
+Test Forecast with CI: Created a plot with Confidence Intervals for the prediction on 2024 - 2049 period
+
+![image](./Output/Test_Forecast_with_CI.png)
 
 # License
 
