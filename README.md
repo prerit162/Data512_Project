@@ -8,9 +8,9 @@ The goal of this project is to analyze wildfire impacts on a specific city in th
 
 ├── <b>Data/</b><br>
 &nbsp;&nbsp;&nbsp;├── Smoke_Estimate_Annual.csv<br>
-&nbsp;&nbsp;&nbsp;├── final_aqi_each_year.csv<br>
-&nbsp;&nbsp;&nbsp;├── gaseous_aqi_data_processed.csv<br>
-&nbsp;&nbsp;&nbsp;├── particulate_aqi_data_processed.csv<br>
+&nbsp;&nbsp;&nbsp;├── aqi_yoy.csv<br>
+&nbsp;&nbsp;&nbsp;├── aqi_gaseous.csv<br>
+&nbsp;&nbsp;&nbsp;├── aqi_particulate.csv<br>
 ├── <b>Code/</b><br>
 &nbsp;&nbsp;&nbsp;├── Data_Extraction_Analysis.ipynb<br>
 &nbsp;&nbsp;&nbsp;├── Reader.py<br>
