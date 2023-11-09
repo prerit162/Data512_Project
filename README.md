@@ -74,16 +74,11 @@ The following steps need to followed to run this code seamlessly :
 
 &emsp; The distance threshold from the city assigned has been kept at 1250 miles for the time period between 1963 - 2023<br>
 
-&emsp; The data fetched for my city(Derby, Kansas) had data for the time period for the time period between 1963 - 2020<br>
+&emsp; The data fetched for my city(Derby, Kansas) had data for the time period for the time period between 1963 - 2020 and data was found to be missing post 2020<br>
 
 &emsp; The data is not well distributed and hence fires over the entire year have been considered instead of the fires between 1st May to 31st October.<br>
 
-&emsp; A modified version of ARIMA called SARIMA has been used in forecasting the Smoke Estimate for the next 25 years (2024-2049)<br>
-
-&emsp; Because of the large size of the "USGS_Wildland_Fire_Combined_Dataset.json" file it could not be uploaded on GitHub. Therefore to reproduce the results it is imperative to download the GeoJSON Files.zip from this link and extract the "USGS_Wildland_Fire_Combined_Dataset.json" file and place it under the data folder.
-The "all_fire_data_with_distance.csv" file is not present under the intermediate data folder because of its large size. However, if one follows the steps mentioned below to reproduce the analysis, it will be generated and no manual intervention is required.
-
-
+&emsp; A modified version of ARIMA called SARIMA has been used in forecasting the Smoke Estimate for the next 25 years (2024-2049) along with confidence intervals for thos predictions <br>
 
 
 # Output
